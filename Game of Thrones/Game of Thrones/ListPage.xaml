@@ -1,0 +1,67 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Game_of_Thrones.ListPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot x:Name="PivotTitle" >
+            <!--Pivot item one-->
+            <phone:PivotItem x:Name="Members">
+                <Grid>
+
+                    <phone:LongListSelector DataContext="Mychrctr" x:Name="HouseMembersListDesign" 
+                                            Background="Transparent" 
+                                            SelectionChanged="HouseMembersListDesign_SelectionChanged" 
+                                            ItemsSource="{Binding}" Loaded="HouseMembersListDesign_Loaded" >
+                        <phone:LongListSelector.Resources>
+
+                        </phone:LongListSelector.Resources>
+
+                        <phone:LongListSelector.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Image x:Name="img1"
+                                           Grid.Row="0" Grid.Column="0" 
+                                           Height="150" Width="150"
+                                           HorizontalAlignment="Left"
+                                           Source="{Binding Photo}"></Image>
+                                    <TextBlock x:Name="tb1"
+                                               FontSize="30"
+                                               Grid.Row="0" Grid.Column="1" 
+                                               Text="{Binding Title}"/>
+                                </Grid>
+
+                            </DataTemplate>
+                        </phone:LongListSelector.ItemTemplate>
+                    </phone:LongListSelector>
+
+                </Grid>
+            </phone:PivotItem>
+
+
+        </phone:Pivot>
+    </Grid>
+
+
+</phone:PhoneApplicationPage>

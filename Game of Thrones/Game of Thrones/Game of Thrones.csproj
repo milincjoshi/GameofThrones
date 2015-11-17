@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{241801DF-8D1C-49E0-84E0-18FDE26470C5}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game_of_Thrones</RootNamespace>
+    <AssemblyName>Game of Thrones</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>es%3baf%3bfr%3bde%3bpt</SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Game_of_Thrones_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Game_of_Thrones.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <NuGetPackageImportStamp>fcda2001</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPage.xaml.cs">
+      <DependentUpon>InfoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListPage.xaml.cs">
+      <DependentUpon>ListPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\CharacterData.cs" />
+    <Compile Include="ViewModels\CharacterGroup.cs" />
+    <Compile Include="ViewModels\GotModel.cs" />
+    <Compile Include="ViewModels\HouseData.cs" />
+    <Compile Include="ViewModels\HouseGroup.cs" />
+    <Compile Include="ViewModels\ItemViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\PlaceData.cs" />
+    <Compile Include="ViewModels\PlaceGroup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="InfoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <DesignData Include="SampleData\MainViewModelSampleData.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </DesignData>
+    <Page Include="SampleData\SampleData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Game_of_Thrones_2014_05_02_15_23_42.sap" />
+    <None Include="Game_of_Thrones_2014_05_05_09_56_35.sap" />
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Language\afrikaans-af.txt" />
+    <Content Include="Assets\ApplicationIcon.png" />
+    <Content Include="Assets\Icons\1.PNG" />
+    <Content Include="Assets\Icons\11.PNG" />
+    <Content Include="Assets\Icons\111.png" />
+    <Content Include="Assets\Icons\2.PNG" />
+    <Content Include="Assets\Icons\22.PNG" />
+    <Content Include="Assets\Icons\222.png" />
+    <Content Include="Assets\Icons\3.PNG" />
+    <Content Include="Assets\Icons\33.PNG" />
+    <Content Include="Assets\Icons\333.png" />
+    <Content Include="Assets\Icons\4.PNG" />
+    <Content Include="Assets\Icons\44.PNG" />
+    <Content Include="Assets\Icons\444.png" />
+    <Content Include="Assets\Icons\5.PNG" />
+    <Content Include="Assets\Icons\55.PNG" />
+    <Content Include="Assets\Icons\555.png" />
+    <Content Include="Assets\Icons\appbar.checkmark.cross.png" />
+    <Content Include="Assets\Icons\appbar.home.empty.png" />
+    <Content Include="Assets\Icons\appbar.home.png" />
+    <Content Include="Assets\Icons\appbar.information.circle.png" />
+    <Content Include="Assets\Icons\appbar.stop.png" />
+    <Content Include="Assets\Icons\arryn.png" />
+    <Content Include="Assets\Icons\Baratheon.png" />
+    <Content Include="Assets\Icons\Greyjoy.png" />
+    <Content Include="Assets\Icons\Home.jpg" />
+    <Content Include="Assets\Icons\lannister.png" />
+    <Content Include="Assets\Icons\Martell.png" />
+    <Content Include="Assets\Icons\Stark.png" />
+    <Content Include="Assets\Icons\Store Tile.png" />
+    <Content Include="Assets\Icons\Targaryen.png" />
+    <Content Include="Assets\Icons\TarGaryenn.png" />
+    <Content Include="Assets\Icons\Tully.png" />
+    <Content Include="Assets\Icons\Tyrell.png" />
+    <Content Include="Assets\Language\albanian-sq.txt" />
+    <Content Include="Assets\Language\en.txt" />
+    <Content Include="Assets\CharacterImages\x.jpg" />
+    <Content Include="Assets\Language\german-de.txt" />
+    <Content Include="Assets\Language\portugese.txt" />
+    <Content Include="Assets\Language\spanish-es.txt" />
+    <Content Include="Assets\Language\french-fr.txt" />
+    <Content Include="ReadMe.Coding4Fun.Toolkit.txt" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="PanoramaBackground.png" />
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\aApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\CharacterImages\Aegon.jpg" />
+    <Content Include="Assets\CharacterImages\Aemon.jpg" />
+    <Content Include="Assets\CharacterImages\Arya.jpg" />
+    <Content Include="Assets\CharacterImages\Balon.jpg" />
+    <Content Include="Assets\CharacterImages\Benjen.jpg" />
+    <Content Include="Assets\CharacterImages\Bran.jpg" />
+    <Content Include="Assets\CharacterImages\Bronn.jpg" />
+    <Content Include="Assets\CharacterImages\Brynden.jpg" />
+    <Content Include="Assets\CharacterImages\Catelyn.jpg" />
+    <Content Include="Assets\CharacterImages\Cersei.jpg" />
+    <Content Include="Assets\CharacterImages\Daenerys.jpg" />
+    <Content Include="Assets\CharacterImages\Davos Seaworth.jpg" />
+    <Content Include="Assets\CharacterImages\Drogo.jpg" />
+    <Content Include="Assets\CharacterImages\Eddard%27Ned%27.jpg" />
+    <Content Include="Assets\CharacterImages\Edmure.jpg" />
+    <Content Include="Assets\CharacterImages\Ellaria.jpg" />
+    <Content Include="Assets\CharacterImages\Gendry.jpg" />
+    <Content Include="Assets\CharacterImages\Jamie.jpg" />
+    <Content Include="Assets\CharacterImages\Jeor.jpg" />
+    <Content Include="Assets\CharacterImages\Joffrey.jpg" />
+    <Content Include="Assets\CharacterImages\JonSnow.jpg" />
+    <Content Include="Assets\CharacterImages\Jorah.jpg" />
+    <Content Include="Assets\CharacterImages\Joyeuse.jpg" />
+    <Content Include="Assets\CharacterImages\Kevan.jpg" />
+    <Content Include="Assets\CharacterImages\Lancel.jpg" />
+    <Content Include="Assets\CharacterImages\Loras.jpg" />
+    <Content Include="Assets\CharacterImages\Lothar.jpg" />
+    <Content Include="Assets\CharacterImages\Lysa.jpg" />
+    <Content Include="Assets\CharacterImages\Mace.jpg" />
+    <Content Include="Assets\CharacterImages\Margaery.jpg" />
+    <Content Include="Assets\CharacterImages\Maron.jpg" />
+    <Content Include="Assets\CharacterImages\Melisandre.png" />
+    <Content Include="Assets\CharacterImages\Myrcella.jpg" />
+    <Content Include="Assets\CharacterImages\Oberyn.jpg" />
+    <Content Include="Assets\CharacterImages\Olenna.jpg" />
+    <Content Include="Assets\CharacterImages\Petyr Baelish.jpg" />
+    <Content Include="Assets\CharacterImages\RamsaySnow.jpg" />
+    <Content Include="Assets\CharacterImages\Renly.jpg" />
+    <Content Include="Assets\CharacterImages\Rickon.jpg" />
+    <Content Include="Assets\CharacterImages\Robb.jpg" />
+    <Content Include="Assets\CharacterImages\Robert.jpg" />
+    <Content Include="Assets\CharacterImages\Robin.jpg" />
+    <Content Include="Assets\CharacterImages\Roose.jpg" />
+    <Content Include="Assets\CharacterImages\Roslin.jpg" />
+    <Content Include="Assets\CharacterImages\Samwell Tarly.jpg" />
+    <Content Include="Assets\CharacterImages\Sandor Clegane.jpg" />
+    <Content Include="Assets\CharacterImages\Sansa.jpg" />
+    <Content Include="Assets\CharacterImages\Selyse.jpg" />
+    <Content Include="Assets\CharacterImages\Shae.jpg" />
+    <Content Include="Assets\CharacterImages\Shireen.jpg" />
+    <Content Include="Assets\CharacterImages\Stannis.jpg" />
+    <Content Include="Assets\CharacterImages\Talisa.jpg" />
+    <Content Include="Assets\CharacterImages\Theon.jpg" />
+    <Content Include="Assets\CharacterImages\Tyrion.jpg" />
+    <Content Include="Assets\CharacterImages\Tywin.jpg" />
+    <Content Include="Assets\CharacterImages\Varys.jpg" />
+    <Content Include="Assets\CharacterImages\Viserys.jpg" />
+    <Content Include="Assets\CharacterImages\Walder.jpg" />
+    <Content Include="Assets\CharacterImages\Yara.jpg" />
+    <Content Include="Assets\CharacterImages\Ygritte.jpg" />
+    <Content Include="Assets\ftr.txt" />
+    <Content Include="Assets\HouseImages\Allyrion.png" />
+    <Content Include="Assets\HouseImages\Ambrose.png" />
+    <Content Include="Assets\HouseImages\Arryn.png" />
+    <Content Include="Assets\HouseImages\Ashford.PNG" />
+    <Content Include="Assets\HouseImages\Baratheon.png" />
+    <Content Include="Assets\HouseImages\Beesbury.png" />
+    <Content Include="Assets\HouseImages\Bolton.png" />
+    <Content Include="Assets\HouseImages\Buckwell.png" />
+    <Content Include="Assets\HouseImages\Bulwer.png" />
+    <Content Include="Assets\HouseImages\Caron.png" />
+    <Content Include="Assets\HouseImages\Cerwyn.png" />
+    <Content Include="Assets\HouseImages\Codd.png" />
+    <Content Include="Assets\HouseImages\Crakehall.png" />
+    <Content Include="Assets\HouseImages\Flint of Widow%27s Watch.png" />
+    <Content Include="Assets\HouseImages\Follard.png" />
+    <Content Include="Assets\HouseImages\Footly.png" />
+    <Content Include="Assets\HouseImages\Fossoway of cider hall.png" />
+    <Content Include="Assets\HouseImages\Fossoway of New Barrel.png" />
+    <Content Include="Assets\HouseImages\Fowler.png" />
+    <Content Include="Assets\HouseImages\Graceford.png" />
+    <Content Include="Assets\HouseImages\Grandison.png" />
+    <Content Include="Assets\HouseImages\Greyjoy.png" />
+    <Content Include="Assets\HouseImages\Hastwyck.png" />
+    <Content Include="Assets\HouseImages\Hightower.png" />
+    <Content Include="Assets\HouseImages\Hornwood.PNG" />
+    <Content Include="Assets\HouseImages\Jordayne.png" />
+    <Content Include="Assets\HouseImages\Karstark.png" />
+    <Content Include="Assets\HouseImages\Lannister.png" />
+    <Content Include="Assets\HouseImages\Lonmouth.png" />
+    <Content Include="Assets\HouseImages\Mallister.png" />
+    <Content Include="Assets\HouseImages\Marbrand.png" />
+    <Content Include="Assets\HouseImages\Martell.png" />
+    <Content Include="Assets\HouseImages\Merryweather.PNG" />
+    <Content Include="Assets\HouseImages\Mooton.PNG" />
+    <Content Include="Assets\HouseImages\mormont.png" />
+    <Content Include="Assets\HouseImages\Oakheart.png" />
+    <Content Include="Assets\HouseImages\Peckledon.PNG" />
+    <Content Include="Assets\HouseImages\Penrose.PNG" />
+    <Content Include="Assets\HouseImages\Piper.png" />
+    <Content Include="Assets\HouseImages\Plumm.PNG" />
+    <Content Include="Assets\HouseImages\Royce.png" />
+    <Content Include="Assets\HouseImages\Sarsfield.PNG" />
+    <Content Include="Assets\HouseImages\Serrett.PNG" />
+    <Content Include="Assets\HouseImages\Smallwood.png" />
+    <Content Include="Assets\HouseImages\Stark.png" />
+    <Content Include="Assets\HouseImages\Stokeworth.png" />
+    <Content Include="Assets\HouseImages\Swyft.png" />
+    <Content Include="Assets\HouseImages\Swygert.png" />
+    <Content Include="Assets\HouseImages\Tallhart.png" />
+    <Content Include="Assets\HouseImages\Targaryen.png" />
+    <Content Include="Assets\HouseImages\Tarly.png" />
+    <Content Include="Assets\HouseImages\Toyne.PNG" />
+    <Content Include="Assets\HouseImages\Trant.png" />
+    <Content Include="Assets\HouseImages\tully.png" />
+    <Content Include="Assets\HouseImages\tyrell.png" />
+    <Content Include="Assets\HouseImages\Velaryon.png" />
+    <Content Include="Assets\HouseImages\Waxley.png" />
+    <Content Include="Assets\HouseImages\Wendwater.PNG" />
+    <Content Include="Assets\HouseImages\Wensington.png" />
+    <Content Include="Assets\HouseImages\Westerling.PNG" />
+    <Content Include="Assets\HouseImages\Wode.PNG" />
+    <Content Include="Assets\HouseImages\Wydman.png" />
+    <Content Include="Assets\HouseImages\Yronwood.png" />
+    <Content Include="Assets\Houses.txt" />
+    <Content Include="Assets\PlaceImages\Asshai.jpg" />
+    <Content Include="Assets\PlaceImages\Astapor.jpg" />
+    <Content Include="Assets\PlaceImages\Bayasabhad.jpg" />
+    <Content Include="Assets\PlaceImages\Bhorash.jpg" />
+    <Content Include="Assets\PlaceImages\Braavos.jpg" />
+    <Content Include="Assets\PlaceImages\Casterly Rock.jpg" />
+    <Content Include="Assets\PlaceImages\Chroyane.jpg" />
+    <Content Include="Assets\PlaceImages\Dragonstone.jpg" />
+    <Content Include="Assets\PlaceImages\Elyria.jpg" />
+    <Content Include="Assets\PlaceImages\Ghis.jpg" />
+    <Content Include="Assets\PlaceImages\GullTown.jpg" />
+    <Content Include="Assets\PlaceImages\Harrenhal.jpg" />
+    <Content Include="Assets\PlaceImages\Highgarden.jpg" />
+    <Content Include="Assets\PlaceImages\King%27s Landing.jpg" />
+    <Content Include="Assets\PlaceImages\Lannisport.jpg" />
+    <Content Include="Assets\PlaceImages\Lorath.jpg" />
+    <Content Include="Assets\PlaceImages\Lys.jpg" />
+    <Content Include="Assets\PlaceImages\Mantarys.jpg" />
+    <Content Include="Assets\PlaceImages\Meereen.jpg" />
+    <Content Include="Assets\PlaceImages\Old Town.jpg" />
+    <Content Include="Assets\PlaceImages\Old Valyria.jpg" />
+    <Content Include="Assets\PlaceImages\Oros.jpg" />
+    <Content Include="Assets\PlaceImages\Pentos.jpg" />
+    <Content Include="Assets\PlaceImages\Qarth.jpg" />
+    <Content Include="Assets\PlaceImages\Riverrun.jpg" />
+    <Content Include="Assets\PlaceImages\Samyrian.jpg" />
+    <Content Include="Assets\PlaceImages\Sunspear.jpg" />
+    <Content Include="Assets\PlaceImages\Tolos.jpg" />
+    <Content Include="Assets\PlaceImages\Tyria.jpg" />
+    <Content Include="Assets\PlaceImages\Vaes Dothrak.jpg" />
+    <Content Include="Assets\PlaceImages\Volantis.jpg" />
+    <Content Include="Assets\PlaceImages\White Harbor.jpg" />
+    <Content Include="Assets\PlaceImages\Winterfell.jpg" />
+    <Content Include="Assets\PlaceImages\Yunkai.jpg" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.af.resx" />
+    <EmbeddedResource Include="Resources\AppResources.de.resx" />
+    <EmbeddedResource Include="Resources\AppResources.es.resx" />
+    <EmbeddedResource Include="Resources\AppResources.fr.resx" />
+    <EmbeddedResource Include="Resources\AppResources.pt.resx" />
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Coding4Fun.Toolkit.Audio">
+      <HintPath>..\packages\Coding4Fun.Toolkit.Audio.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="Coding4Fun.Toolkit.Controls">
+      <HintPath>..\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Coding4Fun.Toolkit.Net">
+      <HintPath>..\packages\Coding4Fun.Toolkit.Net.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Coding4Fun.Toolkit.Storage">
+      <HintPath>..\packages\Coding4Fun.Toolkit.Storage.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Storage.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="microsoft.advertising.mobile.ui, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Maps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NokiaImagingSDK.1.2.115\build\wp8\NokiaImagingSDK.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NokiaImagingSDK.1.2.115\build\wp8\NokiaImagingSDK.targets'))" />
+  </Target>
+</Project>

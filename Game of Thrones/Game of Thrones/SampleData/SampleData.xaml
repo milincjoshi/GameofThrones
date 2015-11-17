@@ -1,0 +1,32 @@
+﻿<vm:GotModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:Game_of_Thrones.ViewModels">
+
+    <vm:GotModel.Houses>
+        <vm:HouseGroup>
+            <vm:HouseGroup.HouseItems>
+                <vm:HouseData HouseTitle="Title1" HouseQuote="Quote1" HouseLogo="Logo1"/>
+            </vm:HouseGroup.HouseItems>
+        </vm:HouseGroup>
+    </vm:GotModel.Houses>
+
+    <vm:GotModel.Characters>
+        <vm:CharacterGroup>
+            <vm:CharacterGroup.CharacterItems>
+
+                <vm:CharacterData CharacterName="CharacterName1" CharacterImage="CharacterImage1"/>
+                <vm:CharacterData CharacterName="CharacterName2" CharacterImage="CharacterImage2"/>
+
+            </vm:CharacterGroup.CharacterItems>
+        </vm:CharacterGroup>
+    </vm:GotModel.Characters>
+
+    <vm:GotModel.Places>
+        <vm:PlaceGroup>
+            <vm:PlaceGroup.PlaceItems>
+                <vm:PlaceData PlaceName="PlaceName1" PlaceImage="PlaceImage1"/>
+            </vm:PlaceGroup.PlaceItems>
+        </vm:PlaceGroup>
+    </vm:GotModel.Places>
+</vm:GotModel>

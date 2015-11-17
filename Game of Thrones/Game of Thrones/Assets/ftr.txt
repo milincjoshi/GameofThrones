@@ -1,0 +1,425 @@
+AerysII Info,
+AerysII House Targaryen
+AerysII Spouse Rhaella
+AerysII Siblings Aemon
+AerysII Children(Son) Rhaegar
+AerysII Children(Son) Viserys
+AerysII Children(Daughter) Daenerys
+Rhaella Info
+Rhaella House Targaryen
+Rhaella Spouse AerysII
+Rhaella Children(Son) Rhaegar
+Rhaella Children(Son) Viserys
+Rhaella Children(Daughter) Daenerys
+Aemon
+Aemon House Targaryen
+Aemon Sibling AerysII
+Rhaegar Info, 
+Rhaegar House Targaryen
+Rhaegar Parents(Father) AerysII
+Rhaegar Parents(Mother) Rhaella
+Rhaegar Sibling(Brother) Viserys
+Rhaegar Sibling(Sister) Daenerys
+Rhaegar Children(Son) Aegon
+Rhaegar Children(Daughter) Rhaenys
+Rhaegar Spouse Elia
+Viserys Info, 
+Viserys House Targaryen
+Viserys Parents(Father) AerysII
+Viserys Parents(Mother) Rhaella
+Viserys Sibling(Brother) Rhaegar
+Viserys Sibling(Sister) Daenerys
+Daenerys Info, 
+Daenerys House Targaryen
+Daenerys Parents(Father) AerysII
+Daenerys Parents(Mother) Rhaella
+Daenerys Sibling(Brother) Rhaegar
+Daenerys Sibling(Brother) Viserys
+Daenerys Spouse Drogo
+Rhaenys
+Rhaenys House Targaryen
+Rhaenys Parents(Father) Rhaegar
+Rhaenys Parents(Mother) Elia
+Rhaenys Sibling(Brother) Aegon
+Aegon Info, 
+Aegon House Targaryen
+Aegon Parents(Father) Rhaegar
+Aegon Parents(Mother) Elia
+Aegon Sibling(Sister) Rhaenys
+Elia
+Elia House Targaryen
+Elia Spouse Rhaegar
+Elia Children(Son) Aegon
+Elia Children(Daughter) Rhaenys
+Elia Sibling(Brother) Oberyn
+Elia Sibling(Brother) Doran
+Richard
+Richard House Stark
+Richard Children(Son) Eddard'Ned'
+Richard Children(Son) Benjen
+Richard Children(Son) Brandon
+Richard Children(Daughter) Lyanna
+Brandon 
+Brandon House Stark
+Brandon Parents(Father) Richard
+Brandon Sibling(Brother) Eddard'Ned' 
+Brandon Sibling(Brother) Benjen
+Brandon Sibling(Sister) Lyanna
+Eddard'Ned' Info, 
+Eddard'Ned' House Stark
+Eddard'Ned' Parents(Father) Richard
+Eddard'Ned' Sibling(Brother) Brandon 
+Eddard'Ned' Sibling(Brother) Benjen
+Eddard'Ned' Sibling(Sister) Lyanna
+Eddard'Ned' Spouse Catelyn
+Eddard'Ned' Spouse Wylla
+Eddard'Ned' Children(Son) JonSnow
+Eddard'Ned' Children(Son) Robb
+Eddard'Ned' Children(Son) Bran
+Eddard'Ned' Children(Son) Rickon
+Eddard'Ned' Children(Daughter) Sansa
+Eddard'Ned' Children(Daughter) Arya
+Wylla
+Wylla House Stark
+Wylla Spouse Eddard'Ned'
+Wylla Children(Son) JonSnow
+Catelyn Info,
+Catelyn House Stark
+Catelyn Spouse Eddard'Ned'
+Catelyn Parents(Father) Hoster
+Catelyn Parents(Mother) Minisa
+Catelyn Children(Son) Robb
+Catelyn Children(Son) Bran
+Catelyn Children(Son) Rickon
+Catelyn Children(Daughter) Sansa
+Catelyn Children(Daughter) Arya
+Catelyn Sibling(Brother) Edmure
+Catelyn Sibling(Sister) Lysa
+Lyanna Info, 
+Lyanna House Stark
+Lyanna Parents(Father) Richard
+Lyanna Sibling(Brother) Eddard'Ned'
+Lyanna Sibling(Brother) Benjen
+Lyanna Sibling(Brother) Brandon
+Benjen
+Benjen House Stark
+Benjen Parents(Father) Richard
+Benjen Sibling(Brother) Brandon
+Benjen Sibling(Brother) Eddard'Ned'
+Benjen Sibling(Sister) Lyanna
+JonSnow Info,
+JonSnow House Stark
+JonSnow Parents(Father) Eddard'Ned'
+JonSnow Parents(Mother) Wylla
+JonSnow Sibling(Brother) Robb
+JonSnow Sibling(Brother) Bran
+JonSnow Sibling(Brother) Rickon
+JonSnow Sibling(Sister) Arya
+JonSnow Sibling(Sister) Sansa
+Talisa
+Talisa House Stark
+Talisa Spouse Robb
+Robb Info, 
+Robb House Stark
+Robb Spouse Talisa
+Robb Parents(Father) Eddard'Ned'
+Robb Parents(Mother) Catelyn
+Robb Sibling(Brother) Bran
+Robb Sibling(Sister) Sansa
+Robb Sibling(Sister) Arya
+Robb Sibling(Brother) Rickon
+Robb Sibling(Brother) JonSnow
+Sansa Info,
+Sansa House Stark
+Sansa Parents(Father) Eddard'Ned'
+Sansa Parents(Mother) Catelyn
+Sansa Spouse Tyrion
+Sansa Sibling(Brother) Bran
+Sansa Sibling(Sister) Arya
+Sansa Sibling(Brother) Rickon
+Sansa Sibling(Brother) JonSnow
+Sansa Sibling(Brother) Robb
+Arya Info, 
+Arya House Stark
+Arya Parents(Father) Eddard'Ned'
+Arya Parents(Mother) Catelyn
+Arya Sibling(Brother) Bran
+Arya Sibling(Sister) Sansa
+Arya Sibling(Brother) Rickon
+Arya Sibling(Brother) JonSnow
+Arya Sibling(Brother) Robb
+Bran Info, 
+Bran House Stark
+Bran Parents(Father) Eddard'Ned'
+Bran Parents(Mother) Catelyn
+Bran Sibling(Sister) Arya
+Bran Sibling(Sister) Sansa
+Bran Sibling(Brother) Rickon
+Bran Sibling(Brother) JonSnow
+Bran Sibling(Brother) Robb
+Rickon Info,
+Rickon House Stark
+Rickon Parents(Father) Eddard'Ned'
+Rickon Parents(Mother) Catelyn
+Rickon Sibling(Sister) Arya
+Rickon Sibling(Sister) Sansa
+Rickon Sibling(Brother) Bran
+Rickon Sibling(Brother) JonSnow
+Rickon Sibling(Brother) Robb
+Doran
+Doran House Martell
+Doran Sibling(Sister) Elia
+Doran Sibling(Brother) Oberyn
+Oberyn
+Oberyn House Martell
+Oberyn Sibling(Brother) Doran
+Oberyn Sibling(Sister) Elia
+Oberyn Spouse Ellaria
+Ellaria 
+Ellaria House Martell
+Ellaria Spouse Oberyn
+Joanna
+Joanna House Lannister
+Joanna Spouse Tywin
+Joanna Children(Son) Jamie
+Joanna Children(Son) Tyrion
+Joanna Children(Daughter) Cersei
+Cersei Info,
+Cersei House Baratheon
+Cersei Parents(Father) Tywin
+Cersei Parents(Mother) Joanna
+Cersei Spouse Robert
+Cersei Sibling(Brother) Jamie
+Cersei Sibling(Brother) Tyrion
+Cersei Children(Son) Joffrey
+Cersei Children(Daughter) Mycrella
+Cersei Children(Son) Tommen
+Tywin Info,
+Tywin House Lannister
+Tywin Spouse Joanna
+Tywin Sibling(Brother) Kevan
+Tywin Children(Son) Jamie
+Tywin Children(Son) Tyrion
+Tywin Children(Daughter) Cersei
+Kevan Info,
+Kevan House Lannister
+Kevan Spouse Dorna
+Kevan Children(Son) Lancel
+Kevan Sibling(Brother) Tywin
+Dorna 
+Dorna House Lannister
+Dorna Spouse Kevan
+Dorna Children(Son) Lancel
+Jamie Info,
+Jamie House Lannister
+Jamie Parents(Father) Tywin
+Jamie Parents(Mother) Joanna
+Jamie Sibling(Brother) Tyrion
+Jamie Sibling(Sister) Cersei
+Tyrion
+Tyrion House Lannister
+Tyrion Spouse Sansa
+Tyrion Parents(Father) Tywin
+Tyrion Parents(Mother) Joanna
+Tyrion Sibling(Brother) Jamie
+Tyrion Sibling(Sister) Cersei
+Lancel Info,
+Lancel House Lannister
+Lancel Parents(Father) Kevan
+Lancel Parents(Mother) Dorna
+Balon
+Balon House Greyjoy
+Balon Spouse Alannys
+Balon Children(Son) Rodrick
+Balon Children(Son) Maron
+Balon Children(Son) Theon
+Balon Children(Daughter) Yara
+Alannys
+Alannys House Greyjoy
+Alannys Spouse Balon
+Alannys Children(Son) Rodrick
+Alannys Children(Son) Maron
+Alannys Children(Son) Theon
+Alannys Children(Daughter) Yara
+Rodrick
+Rodrick House Greyjoy
+Rodrick Parents(Father) Balon
+Rodrick Parents(Mother) Alannys
+Rodrick Sibling(Brother) Maron
+Rodrick Sibling(Brother) Theon
+Rodrick Sibling(Sister) Yara
+Maron
+Maron House Greyjoy
+Maron Parents(Father) Balon
+Maron Parents(Mother) Alannys
+Maron Sibling(Brother) Rodrick
+Maron Sibling(Brother) Theon
+Maron Sibling(Sister) Yara
+Theon
+Theon House Greyjoy
+Theon Parents(Father) Balon
+Theon Parents(Mother) Alannys
+Theon Sibling(Brother) Rodrick
+Theon Sibling(Brother) Maron
+Theon Sibling(Sister) Yara
+Yara
+Yara House Greyjoy
+Yara Parents(Father) Balon
+Yara Parents(Mother) Alannys
+Yara Sibling(Brother) Rodrick
+Yara Sibling(Brother) Maron
+Yara Sibling(Brother) Theon
+Walder
+Walder House Frey
+Walder Spouse Joyeuse
+Walder Children(Son) BlackRivers
+Walder Children(Son) Lothar
+Walder Children(Daughter) Roslin
+Joyeuse
+Joyeuse House Frey
+Joyeuse Spouse Walder
+Joyeuse Children(Son) BlackRivers
+Joyeuse Children(Son) Lothar
+Joyeuse Children(Daughter) Roslin
+BlackRivers
+BlackRivers House Frey
+BlackRivers Parents(Father) Walder
+BlackRivers Sibling(Brothe) Lothar
+BlackRivers Sibling(Sister) Roslin
+Lothar
+Lothar House Frey
+Lothar Parents(Father) Walder
+Lothar Parents(Mother) Joyeuse
+Lothar Sibling(Brother) BlackRivers
+Lothar Sibling(Sister) Roslin
+Roslin
+Roslin House Frey
+Roslin Spouse Edmure
+Roslin Parents(Father) Walder
+Roslin Parents(Mother) Joyeuse
+Roslin Sibling(Brother) BlackRivers
+Roslin Sibling(Brother) Lothar
+Roose Info,
+Roose House Bolton
+Roose Spouse Walda
+Roose Children(Son) RamsaySnow
+Walda
+Walda House Bolton
+Walda Spouse Roose
+RamsaySnow Info,
+RamsaySnow House Bolton
+RamsaySnow Parents(Father) Roose
+Robert Info,
+Robert House Baratheon
+Robert Spouse Cersei
+Robert Sibling(Brother) Stannis
+Robert Sibling(Brother) Renly
+Robert Children(Son) Gendry
+Robert Children(Son) Joffrey
+Robert Children(Son) Tommen
+Robert Children(Daughter) Mycrella
+Stannis
+Stannis House Baratheon
+Stannis Spouse Selyse
+Stannis Children(Daughter) Shireen
+Stannis Sibling(Brother) Robert
+Stannis Sibling(Brother) Renly
+Selyse
+Selyse House Baratheon
+Selyse Spouse Stannis
+Selyse Children(Daughter) Shireen
+Renly
+Renly House Baratheon
+Renly Sibling(Brother) Robert
+Renly Sibling(Brother) Stannis
+Gendry
+Gendry House Baratheon
+Gendry Parents(Father) Robert
+Joffrey Info, 
+Joffrey House Baratheon
+Joffrey Spouse Margaery
+Joffrey Parents(Father) Robert
+Joffrey Parents(Mother) Cersei
+Joffrey Sibling(Brother) Tommen
+Joffrey Sibling(Sister) Mycrella
+Mycrella Info,
+Mycrella House Baratheon
+Mycrella Parents(Father) Robert
+Mycrella Parents(Mother) Cersei
+Mycrella Sibling(Brother) Joffrey
+Mycrella Sibling(Brother) Tommen
+Tommen Info,
+Tommen House Baratheon
+Tommen Parents(Father) Robert
+Tommen Parents(Mother) Cersei
+Tommen Sibling(Brother) Joffrey
+Tommen Sibling(Brother) Mycrella
+Shireen
+Shireen House Baratheon
+Shireen Parents(Father) Stannis
+Shireen Parents(Mother) Selyse
+Luthor
+Luthor House Tyrell
+Luthor Spouse Olenna
+Luthor Chidren(Son) Mace
+Olenna
+Olenna House Tyrell
+Olenna Spouse Luthor
+Olenna Children(Son) Mace
+Mace 
+Mace House Tyrell
+Mace Spouse Alerie
+Mace Parents(Father) Luthor
+Mace Parents(Mother) Olenna
+Mace Children(Son) Loras
+Mace Children(Daughter) Margaery
+Margaery 
+Margaery House Tyrell
+Margaery Spouse Joffrey
+Margaery Sibling(Brother) Loras
+MArgaery Parents(Father) Mace
+Margaery Parents(Mother) Alerie
+Loras 
+Loras House Tyrell
+Loras Sibling(Sister) Margaery
+Loras Parents(Father) Mace
+Loras Parents(Mother) Alerie
+Minisa
+Minisa House Tully
+Minisa Spouse Hoster
+Minisa Children(Son) Edmure
+Minisa Children(Daughter) Catelyn
+Minisa Children(Daughter) Lysa
+Hoster
+Hoster House Tully
+Hoster Spouse Minisa
+Hoster Sibling(Brother) Brynden
+Hoster Children(Son) Edmure
+Hoster Children(Daughter) Catelyn
+Hoster Children(Daughter) Lysa
+Brynden
+Brynden House Tully
+Brynden Sibling(Brother) Hoster
+Lysa Info, 
+Lysa House Tully
+Lysa Parents(Father) Hoster
+Lysa Parents(Mother) Minisa
+Lysa Spouse Jon
+Lysa Sibling(Sister) Catelyn
+Lysa Sibling(Brother) Edmure
+Lysa Children(Son) Robin
+Edmure
+Edmure House Tully
+Edmure Parents(Father) Hoster
+Edmure Parents(Mother) Minisa
+Edmure Spouse Roslin
+Edmure Sibling(Sister) Catelyn
+Edmure Sibling(Sister) Lysa
+Jon Info, 
+Jon House Arryn
+Jon Spouse Lysa
+Jon Children(Son) Robin
+Robin
+Robin House Arryn
+Robin Parents(Father) Jon
+Robin Parents(Mother) Lysa

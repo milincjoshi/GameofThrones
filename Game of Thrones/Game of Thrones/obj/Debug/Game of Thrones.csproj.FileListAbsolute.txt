@@ -1,0 +1,27 @@
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Game of Thrones.dll
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Game of Thrones.pdb
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\AppManifest.xaml
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Game_of_Thrones_Debug_AnyCPU.xap
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\App.g.cs
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\MainPage.g.cs
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game of Thrones.g.resources
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game_of_Thrones.Resources.AppResources.resources
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game of Thrones.csproj.GenerateResource.Cache
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game of Thrones.dll
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game of Thrones.pdb
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\XapCacheFile.xml
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\Game of Thrones.csprojResolveAssemblyReference.cache
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\InfoPage.g.cs
+c:\users\milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Debug\ListPage.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Debug\Assets\aApplicationIcon.png

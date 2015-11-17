@@ -1,0 +1,122 @@
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\aApplicationIcon.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Game of Thrones.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Game of Thrones.pdb
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\AppManifest.xaml
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Game_of_Thrones_Release_AnyCPU.xap
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Net.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\App.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\InfoPage.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\ListPage.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\MainPage.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.g.resources
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.resources
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.csproj.GenerateResource.Cache
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.pdb
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\XapCacheFile.xml
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.csprojResolveAssemblyReference.cache
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\microsoft.advertising.mobile.ui.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\microsoft.advertising.mobile.ui.xml
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Game of Thrones\Game of Thrones\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\aApplicationIcon.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Game of Thrones.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Game of Thrones.pdb
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\AppManifest.xaml
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Game_of_Thrones_Release_AnyCPU.xap
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Net.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\microsoft.advertising.mobile.ui.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\microsoft.advertising.mobile.ui.xml
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\App.g.cs
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\InfoPage.g.cs
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\ListPage.g.cs
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\MainPage.g.cs
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.g.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.csproj.GenerateResource.Cache
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.pdb
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\XapCacheFile.xml
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\es\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.es.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\es\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\af\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\de\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\fr\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.af.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.de.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.fr.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\af\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\de\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\fr\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\Bin\Release\pt\Game of Thrones.resources.dll
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game_of_Thrones.Resources.AppResources.pt.resources
+C:\Users\Milin\Documents\Visual Studio 2013\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\pt\Game of Thrones.resources.dll
+I:\workspace\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.dll
+I:\workspace\Projects\Game of Thrones\Game of Thrones\Game of Thrones\obj\Release\Game of Thrones.pdb

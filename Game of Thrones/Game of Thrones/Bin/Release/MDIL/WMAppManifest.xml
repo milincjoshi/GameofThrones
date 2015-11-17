@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{241801df-8d1c-49e0-84e0-18fde26470c5}" Title="Game of Thrones" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Milin Joshi" Description="This app provides information about fictional series Game Of Thrones written by George.R.R.Martin. This app includes information about Houses, Characters and Places mentioned in the series. " Publisher="Milin Joshi" PublisherID="{e8aa8fc8-0452-4939-91e1-b24ab7242333}">
+    <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="Game_of_ThronesToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Icons\TarGaryenn.png</SmallImageURI>
+          <Title>Game of Thrones</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">Assets\Icons\Stark.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">Assets\Icons\Baratheon.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">Assets\Icons\Targaryen.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">Assets\Icons\lannister.png</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">Assets\Icons\Martell.png</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">Assets\Icons\Tyrell.png</Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">Assets\Icons\arryn.png</Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">Assets\Icons\Greyjoy.png</Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">Assets\Icons\Tully.png</Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

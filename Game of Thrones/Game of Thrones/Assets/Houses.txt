@@ -1,0 +1,63 @@
+01. House Allyrion - No Foe May Pass
+02. House Ambrose - Never Resting
+03. House Arryn - As High as Honor
+04. House Ashford - Our Sun Shines Bright
+05. House Baratheon - Ours is the Fury
+06. House Beesbury - Beware Our Sting
+07. House Bolton - Our Blades Are Sharp
+08. House Buckwell - Pride and Purpose
+09. House Bulwer - Death Before Disgrace
+10. House Caron - No Song So Sweet
+11. House Cerwyn - Honed and Ready
+12. House Codd - Though All Men Do Despise Us
+13. House Crakehall - None so Fierce
+14. House Flint of Widow's Watch - Ever Vigilant
+15. House Follard - None so Wise
+16. House Footly - Tread Lightly Here
+17. House Fossoway of Cider Hall - A Taste of Glory
+18. House Fossoway of New Barrel - Still Green
+19. House Fowler - Let Me Soar
+20. House Graceford - Work Her Will
+21. House Grandison - Rouse Me Not
+22. House Greyjoy - We Do Not Sow
+23. House Hastwyck - None So Dutiful
+24. House Hightower - We Light the Way
+25. House Hornwood - Righteous in Wrath
+26. House Jordayne - Let It Be Written
+27. House Karstark - The Sun of Winter
+28. House Lannister - Hear Me Roar! 
+29. House Lonmouth - The Choice Is Yours
+30. House Mallister - Above the Rest 
+31. House Marbrand - Burning Bright 
+32. House Martell - Unbowed, Unbent, Unbroken 
+33. House Merryweather - Behold Our Bounty 
+34. House Mooton - Wisdom and Strength 
+35. House Mormont - Here We Stand 
+36. House Oakheart - Our Roots Go Deep
+37. House Peckledon - Unflinching
+38. House Penrose - Set Down Our Deeds
+39. House Piper - Brave and Beautiful
+40. House Plumm - Come Try Me
+41. House Royce - We Remember
+42. House Sarsfield - True to the Mark
+43. House Serrett - I Have No Rival
+44. House Smallwood - From These Beginnings
+45. House Stark - Winter is Coming
+46. House Stokeworth - Proud to Be Faithful
+47. House Swyft - Awake! Awake! 
+48. House Swygert - Truth Conquers
+49. House Tallhart - Proud and Free
+50. House Targaryen - Fire and Blood
+51. House Tarly - First in Battle
+52. House Toyne - Fly High, Fly Far
+53. House Trant - So End Our Foes
+54. House Tully - Family, Duty, Honor
+55. House Tyrell - Growing Strong
+56. House Velaryon - The Old, the True, the Brave
+57. House Waxley - Light in Darkness
+58. House Wendwater - For All Seasons
+59. House Wensington - Sound the Charge
+60. House Westerling - Honor, not Honors
+61. House Wode - Touch Me Not
+62. House Wydman - Right Conquers Might
+63. House Yronwood - We Guard the Way
